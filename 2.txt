@@ -1,0 +1,38 @@
+{
+"intent": "academic_programs",
+"examples": [
+"What academic programs does your school offer?",
+"How can I learn more about your school's academic programs?",
+"What are the admission requirements for your school's academic programs?",
+"Can you tell me more about the curriculum for a specific academic program?",
+"What kinds of careers can I pursue with a degree from your school?",
+],
+"response": "Our school offers a wide range of academic programs, including undergraduate and graduate degrees in fields like business, engineering, education, health sciences, and more. To learn more about our programs, visit our school's website or attend an information session or open house. Admission requirements vary by program, but typically include a minimum GPA, standardized test scores, letters of recommendation, and a personal statement or essay. To learn more about a specific program's curriculum, visit our website or speak with an academic advisor. Depending on the program, you may be able to pursue careers in fields like healthcare, education, engineering, business, or technology."
+},
+
+{
+"intent": "course_registration",
+"examples": [
+"How do I register for classes?",
+"When is course registration for next semester?",
+"Can I change my class schedule after I've registered?",
+"What should I do if a course is full or closed?",
+"How do I drop a class?"
+],
+"response": "To register for classes, log in to your student account on our school's website and follow the instructions for selecting courses and submitting your registration. Course registration dates vary by semester, so be sure to check our school's academic calendar for deadlines. If you need to change your class schedule after you've registered, you may be able to add or drop classes during the designated add/drop period. If a course is full or closed, you may be able to add yourself to a waitlist or speak with an academic advisor about alternative course options. To drop a class, log in to your student account and follow the instructions for withdrawing from a course. Be sure to check the deadline for dropping courses, as dropping a course after the deadline may result in academic and financial penalties."
+},
+{
+"intent": "academic_resources",
+"examples": [
+"What academic resources are available to me as a student?",
+"How can I access tutoring or academic coaching?",
+"What should I do if I'm struggling in a class?",
+"How can I improve my writing or math skills?",
+"What are some study skills workshops or programs that I can attend?",
+"How can I get academic accommodations if I have a disability?"
+],
+"response": "As a student, you have access to a variety of academic resources, including tutoring, academic coaching, writing and math centers, and study skills workshops. To access these resources, visit your school's website or student services office, or speak with your instructor or academic advisor. If you're struggling in a class, don't hesitate to seek help from your instructor or academic support staff. If you're looking to improve your writing or math skills, consider visiting a writing or math center or attending a workshop or program. Finally, if you have a disability, you may be eligible for academic accommodations like extra time on exams or alternative formats for course materials. To learn more about these accommodations, contact your school's disability services office."
+},
+
+
+]

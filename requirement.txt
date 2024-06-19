@@ -1,0 +1,3 @@
+ReactJS: frontend
+Flask : backend
+MongDB: database (No-sql)

@@ -1,0 +1,407 @@
+[
+   {
+      "intent":"study_techniques",
+      "examples":[
+         "What are some effective study techniques?",
+         "How can I improve my memory when studying?",
+         "What are the best ways to study for exams?",
+         "Can you recommend any study apps or tools?",
+         "How can I stay motivated when studying for long periods of time?",
+         "What should I do if I'm struggling to understand a concept?"
+      ],
+      "response":"Some effective study techniques include spaced repetition, active recall, and summarizing information in your own words. You can also try using study apps like Anki or Quizlet to help you memorize information. To stay motivated, try breaking up your study sessions into smaller chunks and rewarding yourself after each one. If you're struggling to understand a concept, try working through examples or seeking help from a tutor or professor."
+   },
+   {
+      "intent":"exam_preparation",
+      "examples":[
+         "What are some tips for preparing for exams?",
+         "How can I reduce test anxiety?",
+         "What should I do if I'm struggling to memorize information for an exam?",
+         "What are some effective study strategies for multiple choice exams?",
+         "How can I manage my time effectively during an exam?",
+         "What should I do if I run out of time during an exam?"
+      ],
+      "response":"Some tips for preparing for exams include creating a study schedule, reviewing past exams or assignments for guidance, and practicing active recall by testing yourself on the material. To reduce test anxiety, try deep breathing exercises or visualization techniques. During the exam, manage your time effectively by budgeting your time for each section and focusing on the questions that you know how to answer first."
+   },
+   {
+      "intent":"note_taking",
+      "examples":[
+         "What are some effective note-taking strategies?",
+         "How can I take better notes during lectures?",
+         "What should I include in my study notes?",
+         "What are some tips for organizing my notes?",
+         "How can I use my notes effectively when studying?",
+         "What should I do if I miss a class or lecture?"
+      ],
+      "response":"Effective note-taking strategies include using abbreviations, symbols, and diagrams to summarize information, writing down important details like dates and definitions, and organizing your notes in a way that makes sense to you. To use your notes effectively when studying, try creating summaries or outlines of the material and using flashcards or other memorization tools to help you review."
+   },
+   {
+      "intent":"procrastination",
+      "examples":[
+         "How can I stop procrastinating when studying?",
+         "What are some tips for overcoming procrastination?",
+         "Why do I procrastinate and how can I overcome it?",
+         "What should I do if I keep getting distracted when studying?",
+         "What are some ways to stay focused when studying for long periods of time?",
+         "How can I create a study environment that is conducive to learning?"
+      ],
+      "response":"Procrastination is a common problem for many students. To overcome it, try breaking up your study sessions into smaller chunks, setting specific goals and deadlines for yourself, and eliminating distractions like social media or television. You can also try creating a study environment that is conducive to learning by minimizing noise and distractions and using study tools like whiteboards or flashcards."
+   },
+   {
+      "intent":"asking_questions",
+      "examples":[
+         "What should I do if I have questions about the material?",
+         "How can I get help if I don't understand something?",
+         "What are some ways to ask better questions in class?",
+         "What should I do if I'm too shy to ask questions in class?",
+         "How can I find a study group or tutor?",
+         "What are some tips for getting the most out of office hours?"
+      ],
+      "response":"If you have questions about the material, try asking your professor or TA for clarification or seeking help from a tutor or study group. To ask better questions in class, try to be specific and provide context for your question. If you're too shy to ask questions in class, try speaking with your professor or TA privately or seeking help outside of class. To get the most out of office hours, come prepared with specific questions and be open to feedback and guidance."
+   },
+   {
+      "intent":"time_management",
+      "examples":[
+         "How can I manage my time effectively while studying?",
+         "What are some time management techniques for students?",
+         "How can I create a study schedule that works for me?",
+         "What should I do if I'm running out of time before an exam?",
+         "How can I balance studying with other responsibilities, like work or extracurriculars?",
+         "What are some time-wasting habits that I should avoid while studying?"
+      ],
+      "response":"Effective time management is key to academic success. To manage your time effectively while studying, try creating a study schedule or to-do list, prioritizing your tasks based on importance and urgency, and breaking up larger tasks into smaller, more manageable chunks. You can also eliminate time-wasting habits like checking social media or procrastinating. Finally, make sure to schedule in regular breaks to avoid burnout."
+   },
+   {
+      "intent":"test_prep",
+      "examples":[
+         "What are some effective study strategies for exams?",
+         "How can I prepare for exams in advance?",
+         "What should I do the night before an exam?",
+         "How can I manage test anxiety?",
+         "What are some tips for taking multiple-choice exams?",
+         "How can I review my test results and learn from my mistakes?"
+      ],
+      "response":"Preparing for exams can be stressful, but there are many effective strategies you can use to succeed. Try creating a study schedule or plan, practicing active recall and testing yourself frequently, and breaking up study sessions into smaller chunks. The night before an exam, make sure to get a good night's sleep, eat a healthy meal, and review any key concepts or material. To manage test anxiety, try deep breathing exercises, positive self-talk, and visualization techniques. Finally, after taking an exam, review your results carefully and learn from your mistakes to improve your performance in the future."
+   },
+   {
+      "intent":"online_learning",
+      "examples":[
+         "How can I succeed in online classes?",
+         "What are some tips for staying motivated while learning online?",
+         "How can I stay organized while learning online?",
+         "What should I do if I'm struggling to keep up with online coursework?",
+         "What are some ways to stay engaged and participate in online discussions?",
+         "How can I make the most of online resources like textbooks, videos, and forums?"
+      ],
+      "response":"Online learning can be challenging, but there are many ways to succeed. To stay motivated and engaged, try setting specific goals and deadlines for yourself, participating actively in online discussions and activities, and seeking help from your instructor or classmates when needed. To stay organized, create a schedule or to-do list and make sure to set aside dedicated time for studying and coursework. Finally, make the most of online resources like textbooks, videos, and forums by actively engaging with the material and seeking out additional resources when needed."
+   },
+   {
+      "intent":"academic_support",
+      "examples":[
+         "What academic support resources are available to me?",
+         "How can I access tutoring or academic coaching?",
+         "What should I do if I'm struggling in a class?",
+         "How can I improve my writing or math skills?",
+         "What are some study skills workshops or programs that I can attend?",
+         "How can I get academic accommodations if I have a disability?"
+      ],
+      "response":"There are many academic support resources available to students, including tutoring, academic coaching, study skills workshops, and writing or math centers. To access these resources, try reaching out to your instructor or academic advisor, visiting your school's website or student services office, or asking other students for recommendations. If you're struggling in a class, don't hesitate to seek help from your instructor or academic support staff. Finally, if you have a disability, you may be eligible for academic accommodations like extra time on exams or alternative formats for course materials. To learn more about these accommodations, contact your school's disability services office."
+   },
+   {
+      "intent":"study_techniques",
+      "examples":[
+         "What are some effective study techniques?",
+         "How can I improve my memory when studying?",
+         "What are the best ways to study for exams?",
+         "Can you recommend any study apps or tools?",
+         "How can I stay motivated when studying for long periods of time?",
+         "What should I do if I'm struggling to understand a concept?"
+      ],
+      "response":"Some effective study techniques include spaced repetition, active recall, and summarizing information in your own words. You can also try using study apps like Anki or Quizlet to help you memorize information. To stay motivated, try breaking up your study sessions into smaller chunks and rewarding yourself after each one. If you're struggling to understand a concept, try working through examples or seeking help from a tutor or professor."
+   },
+   {
+      "intent":"study_resources1",
+      "examples":[
+         "Can you recommend any books on calculus?",
+         "What are some good articles on physics?",
+         "Do you have any videos on biology?",
+         "Where can I find resources on programming?",
+         "What are some recommended resources for learning a new language?",
+         "Can you suggest any podcasts on history?"
+      ],
+      "response":"There are many great study resources available online. For calculus, I recommend 'Calculus: Early Transcendentals' by James Stewart. If you're interested in physics, 'The Elegant Universe' by Brian Greene is a popular read. For biology, you can check out Khan Academy's biology videos on YouTube. For programming, Codecademy and Udemy offer many courses on various programming languages. For language learning, Duolingo and Rosetta Stone are popular choices. As for history podcasts, 'Hardcore History' by Dan Carlin is highly recommended."
+   },
+   {
+      "intent":"study_resources2",
+      "examples":[
+         "Can you recommend any good books on calculus?",
+         "Where can I find articles about economics?",
+         "I need help understanding Shakespeare, do you have any video resources?"
+      ],
+      "response":"Sure! For calculus, I recommend 'Calculus: Early Transcendentals' by James Stewart. For economics, check out the Harvard Business Review or The Economist. And for Shakespeare, you might find the videos on the Royal Shakespeare Company's website helpful."
+   },
+   {
+      "intent":"study_resources3",
+      "examples":[
+         "What are some good resources for learning programming?",
+         "Do you have any recommendations for online courses on data science?",
+         "Can you suggest any books on machine learning?"
+      ],
+      "response":"Absolutely! For programming, I recommend Codecademy or FreeCodeCamp. For data science, try Coursera or Udemy. And for machine learning, 'Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow' by Aurélien Géron is a great resource."
+   },
+   {
+      "intent":"study_resources4",
+      "examples":[
+         "Are there any good podcasts about history?",
+         "I'm interested in philosophy, can you recommend any books?",
+         "Where can I find free online courses on literature?"
+      ],
+      "response":"Sure thing! For history podcasts, check out 'Hardcore History' by Dan Carlin or 'Revolutions' by Mike Duncan. For philosophy, try 'Meditations' by Marcus Aurelius or 'The Republic' by Plato. And for free online courses on literature, take a look at edX or Open Culture."
+   },
+   {
+      "intent":"study_resources5",
+      "examples":[
+         "What are some good resources for learning a new language?",
+         "Do you have any recommendations for books on world history?",
+         "Can you suggest any podcasts on science?"
+      ],
+      "response":"Certainly! For language learning, I recommend Duolingo or Rosetta Stone. For world history, try 'Guns, Germs, and Steel' by Jared Diamond or 'The Silk Roads' by Peter Frankopan. And for science podcasts, check out 'Radiolab' or 'Science Vs'."
+   },
+   {
+      "intent":"study_resources6",
+      "examples":[
+         "Where can I find resources to help me prepare for the GRE?",
+         "I need some help with organic chemistry, do you have any video tutorials?",
+         "Can you suggest any books on statistics?"
+      ],
+      "response":"Of course! For GRE prep, try the official GRE website or Magoosh. For organic chemistry, check out 'Organic Chemistry Tutor' on YouTube. And for statistics, 'Naked Statistics' by Charles Wheelan is a great resource."
+   },
+   {
+      "intent":"study_tips_1",
+      "examples":[
+         "What are some study tips to improve my grades?",
+         "How can I study more effectively?",
+         "What should I do to prepare for exams?"
+      ],
+      "response":"To improve your grades, try studying in a quiet and distraction-free environment. Set specific goals for each study session and focus on understanding the material instead of just memorizing it. Take breaks every 45-60 minutes to avoid burnout. Create flashcards, summaries or mind maps to help you remember important concepts. Lastly, be sure to get enough sleep, exercise, and eat well to keep your brain healthy."
+   },
+   {
+      "intent":"study_tips_2",
+      "examples":[
+         "How can I make studying more fun?",
+         "What are some creative study techniques?",
+         "Can you recommend any games or activities to help me study?"
+      ],
+      "response":"Making studying more enjoyable can help you stay motivated and improve your learning. You can try making your own quizzes or puzzles related to the material you're studying, use apps that gamify learning, or form study groups with your peers. Also, try to relate the material to things you are interested in or passionate about. By doing so, you'll be more likely to retain the information."
+   },
+   {
+      "intent":"study_tips_3",
+      "examples":[
+         "How can I manage my time better while studying?",
+         "What should I do to avoid procrastination?",
+         "Can you recommend any time management techniques?"
+      ],
+      "response":"Effective time management is key to successful studying. To manage your time better, make a schedule that prioritizes your tasks and stick to it. Break down larger tasks into smaller, more manageable ones, and set specific deadlines for each task. Avoid multitasking and focus on one thing at a time. Lastly, try to eliminate any distractions like social media or TV while studying to maximize your productivity."
+   },
+   {
+      "intent":"study_tips_4",
+      "examples":[
+         "How can I manage my time better while studying?",
+         "What should I do to avoid procrastination?",
+         "Can you recommend any time management techniques?"
+      ],
+      "response":"Effective time management is key to successful studying. To manage your time better, make a schedule that prioritizes your tasks and stick to it. Break down larger tasks into smaller, more manageable ones, and set specific deadlines for each task. Avoid multitasking and focus on one thing at a time. Lastly, try to eliminate any distractions like social media or TV while studying to maximize your productivity."
+   },
+   {
+      "intent":"study_tips_5",
+      "examples":[
+         "How can I stay motivated while studying?",
+         "What are some ways to stay focused while studying?",
+         "Can you recommend any techniques to help me avoid burnout?"
+      ],
+      "response":"Staying motivated and focused can be a challenge when studying. To stay motivated, set realistic goals for yourself and reward yourself when you achieve them. Use positive affirmations to boost your confidence and stay focused on the task at hand. Take breaks when needed and avoid studying for long periods of time without rest. Lastly, try to make studying a habit by incorporating it into your daily routine."
+   },
+   {
+      "intent":"improve_grades_1",
+      "examples":[
+         "How can I improve my grades in programming?",
+         "What are some tips for doing well in computer science classes?",
+         "How can I study more effectively for my algorithms exam?",
+         "What should I do if I'm struggling in my database class?",
+         "Can you recommend any resources to help me improve my coding skills?"
+      ],
+      "response":"To improve your grades in programming, try practicing coding on a regular basis and seeking feedback from your instructors or classmates. You can also use online resources like Codecademy or Udemy to improve your coding skills. To do well in computer science classes, make sure you attend lectures and take good notes. Try to stay organized and keep up with assignments and readings. For studying effectively for your algorithms exam, try working through practice problems and using visual aids like diagrams and flowcharts. If you're struggling in your database class, consider seeking help from a tutor or your professor. They may be able to provide additional resources or tips for understanding the material."
+   },
+   {
+      "intent":"study_advice",
+      "examples":[
+         "What are some tips for studying effectively?",
+         "How can I improve my grades?",
+         "What are the best study methods for exams?",
+         "What should I do if I'm struggling with a particular subject?",
+         "How can I manage my time better when studying?",
+         "Are there any study apps or tools that can help me?",
+         "How can I stay motivated while studying?",
+         "What are some good resources for studying online?",
+         "How can I make the most out of my study sessions?"
+      ],
+      "response":"There are many ways to study effectively. Some tips include using spaced repetition, active recall, and summarizing information in your own words. You can also try using study apps like Anki or Quizlet to help you memorize information. To improve your grades, make sure you attend classes regularly and ask questions if you don't understand something. If you're struggling with a particular subject, seek help from a tutor or professor. To manage your time better, create a study schedule and stick to it. You can also try breaking up your study sessions into shorter chunks and rewarding yourself after each one. Finally, remember to take breaks and get enough rest to avoid burnout."
+   },
+   {
+      "intent":"improve_grades_2",
+      "examples":[
+         "How can I improve my grades in math?",
+         "What should I do to improve my grades in computer science?",
+         "What study methods can I use to improve my grades?",
+         "I need help improving my programming skills, what should I do?",
+         "What are some tips for studying computer networks?",
+         "How can I improve my coding skills?",
+         "What are some effective ways to study for my algorithms class?",
+         "How can I prepare better for my database exams?"
+      ],
+      "response":"To improve your grades in math or computer science, you can start by reviewing your class notes regularly, completing all assignments and projects on time, and seeking help from your teacher or tutor if you are struggling with any concepts. You can also form study groups with your peers to review material together and practice problem-solving. Additionally, using online resources such as video tutorials or practice exercises can help reinforce what you've learned in class. Finally, make sure to take care of yourself by getting enough sleep, eating well, and taking breaks when needed to avoid burnout."
+   },
+   {
+      "intent":"presentation_tips",
+      "examples":[
+         "What are some tips for giving a good presentation?",
+         "How can I improve my presentation skills?",
+         "What should I avoid doing during a presentation?",
+         "What are some effective ways to engage my audience?",
+         "Can you recommend any presentation tools or software?",
+         "How can I overcome nervousness when giving a presentation?"
+      ],
+      "response":"Some tips for giving a good presentation include practicing beforehand, using visual aids such as slides or videos, and engaging the audience through questions or interactive elements. You should avoid reading from a script or speaking too quickly. Effective ways to engage your audience include using humor or personal anecdotes, and making eye contact. Some popular presentation tools include PowerPoint, Prezi, and Google Slides. To overcome nervousness, try deep breathing exercises, positive self-talk, and practicing in front of a mirror or with friends and family."
+   },
+   {
+      "intent":"slides_design",
+      "examples":[
+         "How can I design effective presentation slides?",
+         "What are some common mistakes to avoid when designing slides?",
+         "What are some tips for using images and graphics in my slides?",
+         "How can I make my slides visually appealing?",
+         "What are some effective color schemes for presentation slides?",
+         "What font types and sizes are best for presentation slides?"
+      ],
+      "response":"To design effective presentation slides, you should keep them simple and uncluttered, use legible fonts and font sizes, and use high-quality images and graphics. You should avoid using too much text on each slide and using flashy animations or transitions. Some tips for using images and graphics include using relevant and high-quality images, using charts or graphs to display data, and keeping the images consistent in size and style. To make your slides visually appealing, consider using a color scheme that is easy on the eyes, and using contrasting colors for text and background. Recommended font types and sizes for presentation slides include sans-serif fonts such as Arial or Helvetica, and a font size of at least 24pt."
+   },
+   {
+      "intent":"presentation_deliver",
+      "examples":[
+         "How should I deliver a presentation effectively?",
+         "What are some common mistakes to avoid during a presentation?",
+         "How can I use my body language to enhance my presentation?",
+         "What are some tips for speaking clearly and confidently?",
+         "How can I handle questions or interruptions during a presentation?",
+         "How long should my presentation be?"
+      ],
+      "response":"To deliver a presentation effectively, you should maintain good posture and eye contact, use hand gestures to emphasize points, and vary your tone and pace of speaking. You should avoid speaking too fast or too slow, and using filler words such as 'um' or 'ah'. Using body language such as smiling, nodding, and maintaining an open posture can also enhance your presentation. When handling questions or interruptions, stay calm and polite, and answer the question as honestly and clearly as possible. The length of your presentation will depend on the topic and context, but generally, it is best to aim for around 10-15 minutes."
+   },
+   {
+      "intent":"time_management",
+      "examples":[
+         "How can I manage my time better?",
+         "What are some tips for managing my time effectively?",
+         "How can I create a schedule to manage my time?",
+         "What should I do if I have trouble sticking to my schedule?",
+         "How can I balance my schoolwork with my other responsibilities?",
+         "What are some time management apps or tools that can help me?",
+         "How can I avoid procrastination and stay on track?",
+         "What should I do if unexpected things come up and I can't stick to my schedule?",
+         "How can I make the most of my study time?"
+      ],
+      "response":"To manage your time better, try creating a schedule or to-do list and prioritize your tasks based on importance and deadlines. Use time management apps or tools like Trello, RescueTime, or Focus@Will to help you stay organized and focused. Avoid multitasking and instead focus on one task at a time. Break up larger tasks into smaller, manageable ones and take breaks as needed. If you have trouble sticking to your schedule, try finding an accountability partner or setting up rewards for completing tasks. Finally, be flexible and willing to adjust your schedule as unexpected things come up."
+   },
+   {
+      "intent":"test_taking_skills",
+      "examples":[
+         "What are some effective test taking strategies?",
+         "How can I improve my test taking skills?",
+         "What should I do if I get stuck on a test question?",
+         "What are some tips for managing time during a test?",
+         "How can I reduce test anxiety?",
+         "What are some ways to prepare for a test?",
+         "What should I do if I don't know the answer to a test question?",
+         "What are some common test taking mistakes and how can I avoid them?",
+         "How can I improve my test performance?",
+         "What are some study techniques that can help me succeed on a test?"
+      ],
+      "response":"Some effective test taking strategies include reading the instructions carefully, answering easier questions first, and reviewing your answers before submitting your test. To improve your test taking skills, practice taking tests under similar conditions as the actual exam. If you get stuck on a test question, try to eliminate obviously incorrect answers and make an educated guess. To manage time during a test, create a plan to allocate time for each question and stick to it. To reduce test anxiety, try deep breathing exercises, positive visualization, and staying organized with your study materials. To prepare for a test, create a study plan and use techniques such as active recall and spaced repetition. If you don't know the answer to a test question, don't panic - try to remember related concepts and use process of elimination to narrow down your choices. Some common test taking mistakes include misreading questions, not managing time effectively, and not reviewing answers before submitting. To avoid these mistakes, read questions carefully, keep track of time, and review your answers before submitting. To improve your test performance, identify areas where you need improvement and focus your study efforts accordingly. Additionally, make sure you get enough rest and eat well on the day of the exam. Finally, some study techniques that can help you succeed on a test include creating summaries and flashcards, practicing with past tests, and working in groups with other students."
+   },
+   {
+      "intent":"study_focus",
+      "examples":[
+         "What are some tips for staying focused while studying?",
+         "How can I avoid getting distracted while studying?",
+         "What are some effective ways to improve my concentration while studying?",
+         "How do I get myself motivated to study?",
+         "What should I do to stay focused during long study sessions?",
+         "How can I create a study environment that promotes concentration?",
+         "What are some good habits to develop for staying focused while studying?",
+         "How can I reduce stress and anxiety while studying?",
+         "What are some common distractions that I should avoid while studying?"
+      ],
+      "response":"There are several ways to stay focused while studying, including setting a study schedule, breaking up study sessions into smaller chunks, using the Pomodoro technique, creating a study-friendly environment, minimizing distractions, staying hydrated and well-rested, and avoiding multitasking. To stay motivated, set specific goals and reward yourself after achieving them. It's also important to take breaks and engage in activities that promote relaxation and stress reduction, such as exercise or meditation."
+   },
+   {
+      "intent":"reduce_study_stress",
+      "examples":[
+         "What are some ways to reduce study stress?",
+         "How can I deal with stress when studying?",
+         "What can I do to reduce anxiety when studying for exams?",
+         "Are there any techniques to help me relax while studying?",
+         "How can I manage my stress levels while studying?",
+         "What are some natural remedies for reducing study stress?"
+      ],
+      "response":"Some ways to reduce study stress include taking breaks, practicing relaxation techniques such as deep breathing or meditation, getting enough sleep and exercise, avoiding caffeine and sugary foods, and setting realistic goals for yourself. You can also try studying with a group or talking to a counselor or therapist if you're feeling overwhelmed."
+   },
+   {
+      "intent":"mindfulness_study",
+      "examples":[
+         "How can mindfulness help with studying?",
+         "What are some mindfulness techniques I can use while studying?",
+         "Is mindfulness a good way to reduce stress while studying?",
+         "Can mindfulness help me stay focused while studying?",
+         "What are the benefits of practicing mindfulness when studying?",
+         "Are there any apps or tools for practicing mindfulness while studying?"
+      ],
+      "response":"Mindfulness can help with studying by reducing stress and improving focus and concentration. Some mindfulness techniques you can use while studying include deep breathing, body scans, and meditation. There are also several apps and tools available, such as Headspace and Calm, that offer guided meditations and mindfulness exercises."
+   },
+   {
+      "intent":"exercise_study",
+      "examples":[
+         "Can exercise help with studying?",
+         "How can exercise improve my concentration when studying?",
+         "What are the best exercises to do before studying?",
+         "What is the best time to exercise when studying?",
+         "Does yoga help with studying?",
+         "How much exercise should I do while studying?"
+      ],
+      "response":"Exercise can help with studying by improving blood flow to the brain, reducing stress, and increasing focus and concentration. Some of the best exercises to do before studying include cardio, yoga, and stretching. The best time to exercise when studying depends on your schedule and preferences, but some people find it helpful to exercise in the morning or before starting their study sessions. As for how much exercise to do while studying, aim for at least 30 minutes of moderate exercise per day."
+   },
+   {
+      "intent":"healthy_study_habits",
+      "examples":[
+         "What are some healthy study habits?",
+         "How can I establish healthy study habits?",
+         "What are some good study habits for college students?",
+         "How can I avoid procrastination when studying?",
+         "What should I eat while studying?",
+         "How much sleep do I need when studying?"
+      ],
+      "response":"Some healthy study habits include setting a schedule and sticking to it, taking breaks, staying organized, avoiding distractions, getting enough sleep, and eating healthy foods such as fruits, vegetables, and lean protein. To establish healthy study habits, start by setting realistic goals and breaking up your study sessions into smaller chunks. It's also important to avoid procrastination and to find a study environment that works for you, whether it's a quiet library or a bustling coffee shop."
+   },
+   {
+      "intent":"study_tools",
+      "examples":[
+         "What are some useful study tools?",
+         "How can I improve my study skills?",
+         "What are some effective methods for studying?",
+         "Can you recommend any study apps or resources?",
+         "What are the best ways to stay organized while studying?",
+         "How can I take better notes during lectures?",
+         "What are some helpful strategies for time management while studying?"
+      ],
+      "response":"There are many useful study tools and resources available to students, such as online textbooks, study apps like Quizlet and Anki, and websites like Khan Academy and Coursera. Effective study methods include active recall, spaced repetition, and summarizing information in your own words. To improve your study skills, try breaking up your study sessions into smaller chunks and taking regular breaks to avoid burnout. To stay organized, use a planner or study schedule to keep track of assignments and deadlines. Taking detailed notes during lectures can also help you better retain information. Finally, effective time management strategies include prioritizing tasks, creating a study schedule, and avoiding distractions while studying."
+   }
+]
